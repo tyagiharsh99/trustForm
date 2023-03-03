@@ -1,12 +1,12 @@
 {
   "details": [
     {
-      "trustName": "",
-      "trustDate": "",
-      "trustState": "",
+      "trustName": "Harsh",
+      "trustDate": "01/01/2023",
+      "trustState": "Verizona",
       "amendedDates": "",
-      "trustSettlor": "",
-      "trustTrustee": "",
+      "trustSettlor": "Mike",
+      "trustTrustee": "Max",
       "trustDescription": ""  
     }
   ]
